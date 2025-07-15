@@ -1,41 +1,41 @@
-😷 MASK DETECTION USING COMPUTER VISION 
-This project is a CV-based solution for detecting whether a person is wearing a mask or not. It uses  "Convolutional Neural Networks(CNN)" to achieves high accuracy in real-world scenarios.
+😷 MASK DETECTION USING COMPUTER VISION<br/>
+This project is a CV-based solution for detecting whether a person is wearing a mask or not. It uses  "Convolutional Neural Networks(CNN)" to achieves high accuracy in real-world scenarios.<br/>
 
-📌 PROJECT OVERVIEW
-The goal of this project is to:
+📌 PROJECT OVERVIEW<br/>
+The goal of this project is to:<br/>
 
--Detect faces in images.
--Classify whether each detected face is with mask or without mask.
--Display the confidence level
-
-
-🛠️ TECH STACK
--Python 3
--TensorFlow / Keras
--OpenCV
+-Detect faces in images.<br/>
+-Classify whether each detected face is with mask or without mask.<br/>
+-Display the confidence level<br/>
 
 
-✅ KEY FEATURES
+🛠️ TECH STACK<br/>
+-Python 3<br/>
+-TensorFlow / Keras<br/>
+-OpenCV<br/>
 
--Real-time or static image prediction
--Training and validation pipelines with Keras & TensorFlow
+
+✅ KEY FEATURES<br/>
+
+-Real-time or static image prediction<br/>
+-Training and validation pipelines with Keras & TensorFlow<br/>
 
 
-📂 DATA 
-The data is directly downloaded from Kaggle in the .ipynb file.
-For Analysis, Sample Images of the used labelled images are in the data folder.
+📂 DATA <br/>
+The data is directly downloaded from Kaggle in the .ipynb file.<br/>
+For Analysis, Sample Images of the used labelled images are in the data folder.<br/>
  
 
-📊 RESULTS
-🔹 Testing Accuracy
-- Final Test Accuracy: 97.18%
+📊 RESULTS<br/>
+🔹 Testing Accuracy<br/>
+- Final Test Accuracy: 97.18%<br/>
 
-🔹 Training Graphs
+🔹 Training Graphs<br/>
 
-!["Graph"][results/graph.png]
+<img src="results/graph.png" width="200"/><br/>
 
-🔹 Predicted Sample Images
-Here are examples of predictions:
+🔹 Predicted Sample Images<br/>
+Here are examples of predictions:<br/>
 
 <p float="left">
   <img src="results/1.png" width="200"/>
