@@ -1,7 +1,7 @@
-# 😷 MASK DETECTION USING COMPUTER VISION<br/>
+# 😷 Mask Detection Using Computer Vision<br/>
 This project is a CV-based solution for detecting whether a person is wearing a mask or not. It uses  "Convolutional Neural Networks(CNN)" to achieves high accuracy in real-world scenarios.<br/>
 
-# 📌 PROJECT OVERVIEW<br/>
+# 📌 Project Overview<br/>
 The goal of this project is to:<br/>
 
 -Detect faces in images.<br/>
@@ -9,24 +9,24 @@ The goal of this project is to:<br/>
 -Display the confidence level<br/>
 
 
-# 🛠️ TECH STACK<br/>
+# 🛠️ Tech Stack<br/>
 -Python 3<br/>
 -TensorFlow / Keras<br/>
 -OpenCV<br/>
 
 
-# ✅ KEY FEATURES<br/>
+# ✅ Key Features<br/>
 
 -Real-time or static image prediction<br/>
 -Training and validation pipelines with Keras & TensorFlow<br/>
 
 
-# 📂 DATA <br/>
+# 📂 Data<br/>
 The data is directly downloaded from Kaggle in the .ipynb file.<br/>
 For Analysis, Sample Images of the used labelled images are in the data folder.<br/>
  
 
-# 📊 RESULTS<br/>
+# 📊 Results<br/>
 🔹 Testing Accuracy<br/>
 - Final Test Accuracy: 97.18%<br/>
 
